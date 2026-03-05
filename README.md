@@ -1,6 +1,5 @@
 **Module 1: Computer & Internet Fundamentals**
-
-** Duration: 2 Weeks**
+**Duration: 2 Weeks**
 **Week 1 – Computer Basics**
 **Topics:**
 
