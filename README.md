@@ -4,10 +4,15 @@
 **Topics:**
 
 •	Computer components (CPU, RAM, Storage)
+
 •	Operating Systems basics
+
 •	Files & directories
+
 •	Command Line basics
+
 •	Software vs Hardware
+
 •	How programs run on computers
 
 **Skills:**
