@@ -347,28 +347,45 @@ Topics:**
 •	Relationships
 
 **Module 9: Deployment & Production**
+
 **Duration: 1 Week**
+
 **Topics:**
 
 •	Environment variables
+
 •	Hosting
+
 •	Deployment
+
 •	CI/CD basics
+
 •	Deploy projects on:
+
 •	Vercel
+
 •	Netlify
+
 •	Render
 
 **Module 10: Advanced Concepts**
+
 **Duration: 2 Weeks**
+
 **Topics:**
 
 •	Web security basics
+
 •	Performance optimization
+
 •	SEO basics
+
 •	API design
+
 •	MVC architecture
+
 •	WebSockets
+
 •	Real-time apps
 •	Final Capstone Projects (Portfolio)
 •	Build at least 3 full projects
