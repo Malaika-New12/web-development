@@ -1,0 +1,46 @@
+• Computer components (CPU, RAM, Storage)
+A computer is a programmable electronic device that accepts raw data (input), processes it according to instructions, produces information (output), and stores results for future use.
+Raw data:
+AHPN2095498303nhjnc
+AHPN
+205674
+nh
+malaikaazamhadinsnd
+CPU: (central processing unit)
+Brain 
+process all data 
+
+RAM:  Random access memory
+short-term memory (temporary)
+very fast processing
+disadv: powerdoff data loss
+
+storage SSD/HDD:
+Solid State Drives/Hard Disk Drives 
+long-term memory 
+stores file permanently 
+
+• Operating Systems basics (software)
+connects user with hardwar.
+example: windows, linux, macos 
+OS working:
+manages memory (RAM) 
+Handles Files
+runs programmable
+Control hardware
+soft vs hardware
+Software is a set of instructions that tells a computer exactly what to do.
+Hardware is a physical part of the computer that causes the processing of data. 
+
+• Files & directories
+File:
+single unit 
+example: day-2 text file 
+Directories: (folder):
+collections of Files
+container of Files
+example : Day-2 
+
+Web DEv importance:
+---------organizing projects 
+---------Clean structure
