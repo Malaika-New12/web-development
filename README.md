@@ -299,51 +299,75 @@
 
 
 **Week 20 – React Projects**
+
 **Projects:**
 
 •	Movie search app
+
 •	Blog app
+
 •	Dashboard UI
 
 **Module 7: Backend Development**
+
 **Duration: 3 Weeks**
 
 **Week 21 – Server Basics**
+
 **Using Node.js**
+
 **Topics:**
 
 •	Node environment
+
 •	NPM
+
 •	Modules
+
 •	File system
 
 **Week 22 – Backend Framework**
-**Using Express.js
-Topics:**
+
+**Using Express.js**
+
+**Topics:**
 
 •	Routing
+
 •	Middleware
+
 •	REST APIs
+
 •	Error handling
 
 **Week 23 – Authentication**
+
 **Topics:**
 
 •	Login system
+
 •	Password hashing
+
 •	Tokens
+
 •	Protected routes
 
 **Module 8: Databases**
+
 **Duration: 2 Weeks**
 
 **Week 24 – Database Basics**
+
 **Using MongoDB**
+
 **Topics:**
 
 •	CRUD operations
+
 •	Data modeling
+
 •	Queries
+
 •	Relationships
 
 **Module 9: Deployment & Production**
